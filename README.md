@@ -1,4 +1,4 @@
-#Pokedex with PokéApi
+# Pokedex with PokéApi
 
 **I created a Pokedex web page that shows 6 random pokemons by their id, and also a search bar to search your favorite pokemon :3**
 
